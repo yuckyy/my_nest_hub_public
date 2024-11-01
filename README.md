@@ -16,3 +16,5 @@
 1. run application using `php artisan serve`
 1. open application in browser using link from cli
 1. Have a good work!
+
+link(prod) - https://mynesthub.com/
